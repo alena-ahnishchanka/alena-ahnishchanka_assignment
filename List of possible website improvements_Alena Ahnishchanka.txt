@@ -1,0 +1,9 @@
+List of possible improvements:
+
+1) to fix displaying of 'File not found' screen when LogIn/SignUp/Profile/Details pages are refreshed or opened in the new tab/window
+2) to prohibit selecting incorrect birth date values on SignUp page (e.g., February 31) - a warning message can be displayed after selecting
+3) to prohibit using inner spaces inside username/password values
+4) to prohibit using non-latin (e.g., cyrillic) characters in username/password/email(after @) values
+5) to prohibit using only special characters in username/password/name values
+6) to prohibit using only numeric characters in email(after @) values
+7) to increase required field length for password
