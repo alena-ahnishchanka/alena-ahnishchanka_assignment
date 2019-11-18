@@ -24,3 +24,8 @@ Running options
 To switch between Chrome and Firefox browsers for test executon, open CucumberLoginTest.java file that is located along this path: alena-ahnishchanka_assignment\src\test\java\com\at\module\ and use "CHROME" or "FIREFOX" value in the 25th row of the file.
 
 To run Chrome browser in headless mode open ChromeDriverSingleton.java file that is located along this path: alena-ahnishchanka_assignment\src\main\java\utils\ and use "true" (headless) or "false" (non-headless) value in 31th row of the file.
+
+
+List of possible website improvements
+---------------
+Can be found in the root project folder (List of possible website improvements_Alena Ahnishchanka.txt).
