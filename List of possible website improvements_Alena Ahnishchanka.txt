@@ -7,3 +7,5 @@ List of possible improvements:
 5) to prohibit using only special characters in username/password/name values
 6) to prohibit using only numeric characters in email(after @) values
 7) to increase required field length for password
+8) to ignore leading/trailing spaces when comparing filled values (e.g., now "admin" and "admin " are considered different usernames)
+9) to ignore upper/lower case when comparing username values (e.g., now "admin" and "Admin" are considered different usernames)
